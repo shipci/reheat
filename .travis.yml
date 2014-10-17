@@ -16,5 +16,6 @@ before_script:
 script:
   - grunt build
   - grunt doc
+
 #after_script:
  # - killall rethinkdb
